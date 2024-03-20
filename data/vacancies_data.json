@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Python ML-разработчик (искусственный интеллект)",
+        "url": "https://hh.ru/vacancy/95020549",
+        "salary_from": 180000,
+        "salary_to": 0,
+        "currency": "RUR"
+    },
+    {
+        "name": "Стажер-разработчик Python",
+        "url": "https://hh.ru/vacancy/94354526",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "name": "Backend-разработчик / Python developer",
+        "url": "https://hh.ru/vacancy/94940292",
+        "salary_from": 100000,
+        "salary_to": 220000,
+        "currency": "RUR"
+    }
+]
